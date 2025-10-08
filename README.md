@@ -1,5 +1,7 @@
 # pp-java
 
+## …or create a new repository on the command line
+
   ```bash
   git push -u origin main
 ```
