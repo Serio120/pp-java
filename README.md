@@ -2,6 +2,17 @@
 
 ## …or create a new repository on the command line
 
+```bash
+echo "# pp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Serio120/pp.git
+git push -u origin main
+```
+
+
   ```bash
   git push -u origin main
 ```
