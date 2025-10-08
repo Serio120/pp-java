@@ -8,7 +8,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Serio120/pp.git
+git remote add origin  [rutarepo]
 git push -u origin main
 ```
 
